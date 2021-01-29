@@ -10,28 +10,29 @@
 
 ## 新鲜出炉 (2021-01)
 
-### 2021-01-29[网站]
+### 2021-01-29 \[问题\]
 
-上次（2020-12）给大家推荐了一个可视化算法的网站。今天给大家介绍一个 功能更全面的网站，不仅可以可视化算法，还提供了大量数据结构的可视化。
+**问题描述**
 
-![网站截图](https://tva1.sinaimg.cn/large/008eGmZEly1gmm43gho7tj31er0n0gs5.jpg)
+本地 Git 提交时，出现问题 **Logon failed, use ctrl+c to cancel basic credential prompt to Git**。
 
-![二叉堆的可视化](https://tva1.sinaimg.cn/large/008eGmZEly1gmm444sdypj30o506zjrq.jpg)
+**解决方案**
 
-地址：https://visualgo.net/
+将 Git 升级到最新版本。
+
+**具体做法**
+
+Windows：`git update-git-for-windows`
+
+Linux：`git update`
+
+或者使用以下链接直接下载最新版本的 binary 重新安装：
+
+https://git-scm.com/downloads
 
 ## 历史汇总
 
-- [2020-12](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-12/README.md)
-- [2020-11](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-11/README.md)
-- [2020-10](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-10/README.md)
-- [2020-09](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-09/README.md)
-- [2020-08](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-08/README.md)
-- [2020-05](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-05/README.md)
-- [2020-04](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-04/README.md)
-- [2020-03](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-03/README.md)
-- [2020-02](https://github.com/azl397985856/daily-featured/tree/master/backup/2020-02/README.md)
-- [2021-01](https://github.com/azl397985856/daily-featured/tree/master/backup/2021-01/README.md)
+- [2021-01](https://github.com/xjliang/daily-featured/tree/main/backup/2021-01/README.md)
 
 ## 贡献
 
